@@ -1,5 +1,5 @@
 public Class HelloGit{
   public static void main(String[] args){
-  .....
+	Sysout.out.print("hello git");
   }
 }
